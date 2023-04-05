@@ -1,2 +1,2 @@
 # HavayoluYolcuMemnuniyetiAnalizi
-XGBoost algroritması ile havyolu yolcu verilerinden memnuniyet analizi.
+XGBoost ile havyolu yolcu verilerinden memnuniyet analizi.
